@@ -2,4 +2,10 @@ Hello World this my first program in Git
 
 Second line
 
+<<<<<<< HEAD
 this the third edited by first user.
+=======
+edited by other user
+
+second time edited by second user
+>>>>>>> 7376d818bf746b2fc92839aa9d70ccace492a9f9
